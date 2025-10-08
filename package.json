@@ -1,0 +1,31 @@
+{
+  "name": "local-seo-test-site",
+  "version": "0.1.0",
+  "description": "Claude automation pipeline for local seo focus on hvac repair",
+  "main": "script.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NemaVision/Local-seo-test-site-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NemaVision/Local-seo-test-site-/issues"
+  },
+  "homepage": "https://github.com/NemaVision/Local-seo-test-site-#readme",
+  "dependencies": {
+    "next": "^14.2.33",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
